@@ -1,0 +1,1 @@
+# edunet-medical-diagnosis
